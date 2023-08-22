@@ -1,4 +1,4 @@
-# w1p1-git
+# w2p1-git
 
 ## Problem 1:
 - Buatlah akun github dan setup laptop sudah bisa menggunakan git.
